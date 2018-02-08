@@ -1,1 +1,30 @@
 To make a summary about all topics in CV
+
+Task 1
+    1.- 8 february: Detection Algorithm of the pattern calibration 
+    2.- 15february: The same but in real time 
+    3.- 22february: Initial Calibration to camera
+    4.- 01march:    Implementation of frontal transformation - parallel, detection and refinement of control points of the grid of concentric circles
+    5.- 08march:    Optimization of the calibration camera
+    6.- 15march:    Detection in real time of the pattern in differents cameras and comparison the results among groups
+    7.- 22march:    Augmented reality with the informations of the parameters of the camera prepviously calibrated.
+
+Task 2 
+    1.- 8 february: intial presentation about article choosen for each group, higlight main idea of the article, algorithms and mathematics bases and define the complexity.
+    2.- 22 february: Demo presentation with the enable data in web page authors
+    3.- 098 march:  preliminary of the demo of the article with generated data for yourselves(each group)(first version in c++) 
+    4.- 15 march:   Final presentation of the demo of the article with data generated for the yourselves(each group)
+    5.- 22 march:   Adition revision to groups who dont achieve the expected results(Minim compile and run the demo of the article with the own data)
+
+
+Code:
+
+https://github.com/PointCloudLibrary/pcl/blob/master/doc/tutorials/content/vfh_estimation.results
+
+Drive: 
+
+https://docs.google.com/document/d/1S92Ffyeb2UmR_JSJ42gajm01b0Q4R5q_E67RBiy3nh0/edit
+
+
+
+

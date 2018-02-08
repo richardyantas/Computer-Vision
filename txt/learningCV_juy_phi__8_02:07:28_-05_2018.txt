@@ -1,0 +1,7 @@
+
+
+Calibration work: part 1
+The images
+
+Show the process of extraction of the features points 2D  and what heuristics was created for calculate the images patterns. 
+
